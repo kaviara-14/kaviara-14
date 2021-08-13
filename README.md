@@ -1,7 +1,7 @@
  ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
  
- - 😀 I was a STEP Intern at Google worked with Android TV team.
+ - 😀 I was a Software Developer Intern at Center for Aquatic Livelihood Jaljeevika worked with Web Development team.
  - 💻 I am a GDSC Lead at SKCT.
  - 👩‍🎓 An Undergrad student at Sri Krishna College Of Technology pursuing B.Tech Information Technology.
  - 📌 I have enormous interest in Web Develpoment and Android Development.
@@ -9,7 +9,7 @@
  - 💻 Interested in Competitive Coding && Passionate in Web and Android Development.
  - 💬 Let's chat about Technological wonders
  - 😀 I would love to collaborate for interesting projects.
- - 🙂 Know more about me [here]()
+ - 🙂 Know more about me [here](https://github.com/kaviara-14/kaviara-14)
 
 ### 🤝Let's Connect 
 
