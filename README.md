@@ -5,7 +5,7 @@
  - 💻 I am a GDSC Lead at SKCT.
  - 👩‍🎓 An Undergrad student at Sri Krishna College Of Technology pursuing B.Tech Information Technology.
  - 📌 I have enormous interest in Web Develpoment and Android Development.
- - 🧐 Have a glance of my work [here](https://github.com/kaviara-14)
+ - 🧐 Have a glance of my work [here](https://github.com/kaviara-14?tab=repositories)
  - 💻 Interested in Competitive Coding && Passionate in Web and Android Development.
  - 💬 Let's chat about Technological wonders
  - 😀 I would love to collaborate for interesting projects.
