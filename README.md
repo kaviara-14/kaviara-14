@@ -1,7 +1,7 @@
  ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
  
- - 😀 I was a Software Developer Intern at Center for Aquatic Livelihood Jaljeevika worked with Web Development team.
+ - 😀 I was a web Developer Intern at The Spark's Foundation worked with Web Development team.
  - 💻 I am a GDSC Lead at SKCT.
  - 👩‍🎓 An Undergrad student at Sri Krishna College Of Technology pursuing B.Tech Information Technology.
  - 📌 I have enormous interest in Web Develpoment and Android Development.
