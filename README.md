@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h3 align="left">🔍 About Me:</h3>
+<h3 align="left">🔍 About Me :</h3>
 <p align="left">
   
   * I am a passionate DevOps and Cloud Engineer, starting my career in the world of cloud technologies, automation, and CI/CD pipelines. 
@@ -22,11 +22,11 @@
   
 </p>
 
-- 📫 **How to reach me:** [kaviarasuvpl14@gmail.com](mailto:kaviarasuvpl14@gmail.com)
+- 📫 **How to reach me :** [kaviarasuvpl14@gmail.com](mailto:kaviarasuvpl14@gmail.com)
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
+<h3 align="left">🌐 Connect with Me :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kaviarasu-m-b879a1195/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
@@ -35,7 +35,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools :</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
@@ -83,7 +83,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats :</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaviara-14&show_icons=true&locale=en&theme=radical" alt="kaviara-14 GitHub Stats" />
 </p>
