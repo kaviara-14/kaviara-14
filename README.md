@@ -51,7 +51,7 @@
     <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ArgoCD" width="40" height="40"/> 
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.png" alt="Prometheus" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Prometheus_logo.svg/1200px-Prometheus_logo.svg.png" alt="Prometheus" width="40" height="40"/> 
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/> 
