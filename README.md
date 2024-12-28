@@ -16,7 +16,7 @@
   
   * I am a passionate DevOps and Cloud Engineer, starting my career in the world of cloud technologies, automation, and CI/CD pipelines. 
   
-  * As a fresher, I have a strong foundational understanding of tools such as ***Terraform, Kubernetes, Docker, Jenkins, AWS, Gitops tools like ArgoCD and GitLabs, Ansible, Prometheus and Grafana***. I am constantly eager to learn and apply my knowledge to build scalable and reliable infrastructure solutions.
+  * As a fresher, I have a strong foundational understanding of tools such as **Terraform, Kubernetes, Docker, Jenkins, AWS, Gitops tools like ArgoCD and GitLabs, Ansible, Prometheus and Grafana**. I am constantly eager to learn and apply my knowledge to build scalable and reliable infrastructure solutions.
     
   * My goal is to grow as a DevOps professional by contributing to real-world projects, learning from industry experts, and gaining hands-on experience in cloud and automation practices.
   
