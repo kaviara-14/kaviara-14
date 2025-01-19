@@ -14,11 +14,9 @@
 <h3 align="left">🔍 About Me :</h3>
 <p align="left">
   
-  * I am a passionate DevOps and Cloud Engineer, starting my career in the world of cloud technologies, automation, and CI/CD pipelines. 
-  
-  * As a fresher, I have a strong foundational understanding of tools such as **Terraform, Kubernetes, Docker, Jenkins, AWS, Gitops tools like ArgoCD and GitLabs, Ansible, Prometheus and Grafana**. I am constantly eager to learn and apply my knowledge to build scalable and reliable infrastructure solutions.
-    
-  * My goal is to grow as a DevOps professional by contributing to real-world projects, learning from industry experts, and gaining hands-on experience in cloud and automation practices.
+DevOps and Cloud Engineer with 2.5 years of experience in designing, deploying, and managing scalable cloud infrastructure using
+*AWS, Kubernetes, CI/CD pipelines, Docker, and Git*. Proficient in *Terraform, Jenkins, and Ansible*, specializing in automating deployment
+pipelines, optimizing cloud resources, and enhancing application scalability and performance.
   
 </p>
 
