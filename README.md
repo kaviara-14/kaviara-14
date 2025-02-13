@@ -14,7 +14,7 @@
 <h3 align="left">🔍 About Me :</h3>
 <p align="left">
   
-DevOps and Cloud Engineer with 2.4 years of experience in designing, deploying, and managing scalable cloud infrastructure using **Kubernetes, CI/CD pipelines, Docker, and Git**. Proficient in **Terraform, Jenkins, GitLab, and Ansible** with a strong focus on automating deployment pipelines, optimizing cloud resources, and improving application scalability and performance.
+DevOps and Cloud Engineer with 2.5 years of experience in designing, deploying, and managing scalable cloud infrastructure using **Kubernetes, CI/CD pipelines, Docker, and Git**. Proficient in **Terraform, Jenkins, GitLab, and Ansible** with a strong focus on automating deployment pipelines, optimizing cloud resources, and improving application scalability and performance.
   
 </p>
 
